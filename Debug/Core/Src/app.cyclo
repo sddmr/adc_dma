@@ -1,0 +1,2 @@
+../Core/Src/app.cpp:6:6:void App_Init()	1
+../Core/Src/app.cpp:11:6:void App_Run()	1
